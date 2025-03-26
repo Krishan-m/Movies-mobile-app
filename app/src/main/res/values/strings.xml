@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MovieApp</string>
+    <string name="title">Title</string>
+    <string name="year">Year</string>
+    <string name="movieimage">MovieImage</string>
+    <string name="search_movie">Search Movie</string>
+    <string name="search_movies">Search Movies</string>
+    <string name="searchmovie">Search movie</string>
+    <string name="search">Search</string>
+    <string name="omdb_api_key">https://www.omdbapi.com/?apikey=fc822bd6</string>
+    <string name="description">Description</string>
+    <string name="ratings">Ratings</string>
+    <string name="go_back">Go back</string>
+    <string name="director">Director</string>
+    <string name="directed_by">Directed by:</string>
+</resources>
